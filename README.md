@@ -2,7 +2,7 @@
 
 <p>🌟 I'm a software developer with a passion for creating efficient applications and continuously improving my skills by learning new technologies. <br/> 🤝 Let's connect and collaborate!</p>
 
-## <h2>🔥 Technical </h2>
+## <h2>🔥 Languages & Tools </h2>
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" title="React"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring boot" title="Spring boot"/>
 
 ## ♻️ Connect with me 
