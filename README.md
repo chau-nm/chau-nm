@@ -26,7 +26,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-%234B8BBE.svg?style=flat-square&logo=eclipse&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat-square&logo=intellijidea&logoColor=white)
