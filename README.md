@@ -1,6 +1,6 @@
 <h2 align="center">NGUYEN MINH CHAU 👋</h2> 
 
-<p>🌟 I'm a software developer with a passion for creating efficient applications and continuously improving my skills by learning new technologies. <br/> 🤝 Let's connect and collaborate!</p>
+<p>🌟 I'm a software developer with a passion for creating efficient applications and continuously improving my skills by learning new technologies. <br/> 🤝 Let's connect and collaborate!!!</p>
 
 ## <h2>🔥 Languages & Tools </h2>
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
