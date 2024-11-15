@@ -46,5 +46,5 @@
 ## 💹 Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chau-nm&layout=compact&theme=dark) <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chau-nm&show_icons=true&hide=issues&theme=dark) <br />
-![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=chau-nm&count_private=true&theme=dark)
+![chau-nm's GitHub stats](https://github-readme-stats.vercel.app/api?username=chau-nm&show_icons=true&hide=issues&theme=dark) <br />
+![chau-nm's current streak](https://streak-stats.demolab.com/?user=chau-nm&count_private=true&theme=dark)
