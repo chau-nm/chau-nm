@@ -6,12 +6,9 @@
 <table>
 <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <br>
+        JavaScript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
@@ -19,15 +16,23 @@
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
+          <br>
+        Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <br>
+        Python
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+        <br>
+        React
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+        <br>
+        MySQL
     </td>
  </tr>
 </table>
