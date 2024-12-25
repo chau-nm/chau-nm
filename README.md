@@ -54,7 +54,7 @@
 
 ## ♻️ Connect with me 
 <a href="mailto:chaunm.146.2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chaunm.146.2001@gmail.com" title="chaunm.146.2001@gmail.com" align="center"/></a>
-<a href="https://www.linkedin.com/in/nguyen-minh-chau-304a2b2b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" align="center"/></a>
+<a href="https://www.linkedin.com/in/chaunm14/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" align="center"/></a>
 
 <hr />
 
