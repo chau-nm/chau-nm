@@ -22,7 +22,7 @@ I'm currently taking my first steps into the **open-source world** — eager to 
 - **Languages:** Java, Go, PHP, JavaScript & TypeScript 
 - **Frameworks:** Spring, Symfony, Gin  
 - **DevOps & Cloud Tools:** Docker, K8s, Helm, FluxCD, GitHub Actions, K3s, Minikube, DigitalOcean
-- **Tools:** Linux, Git, Make
+- **Other tools:** Linux, Git, Make
 
 ---
 
