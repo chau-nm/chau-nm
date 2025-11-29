@@ -7,6 +7,7 @@ I'm currently taking my first steps into the **open-source world** — eager to 
 
 ### 🚀 What I'm working on
 - **[palsvm](https://github.com/chau-nm/palsvm)** — a project to manage and automate **Palworld Server** configurations.
+- **homix** — a private project relate Rental Accommodation Management.
 
 ---
 
