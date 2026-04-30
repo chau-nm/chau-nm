@@ -21,7 +21,7 @@ I'm currently taking my first steps into the **open-source world** — eager to 
 
 ### 🧰 Tech Stack
 - **Languages:** Java, Go, PHP, JavaScript & TypeScript 
-- **Frameworks:** Spring, Symfony, Gin  
+- **Frameworks:** Spring, Laravel, Symfony, Gin  
 - **DevOps & Cloud Tools:** Docker, K8s, Helm, FluxCD, GitHub Actions, K3s, Minikube, DigitalOcean
 - **Other tools:** Linux, Git, Make
 
