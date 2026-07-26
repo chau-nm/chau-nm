@@ -6,16 +6,14 @@ I'm currently taking my first steps into the **open-source world** — eager to 
 ---
 
 ### 🚀 What I'm working on
-- **[palsvm](https://github.com/chau-nm/palsvm)** — a project to manage and automate **Palworld Server** configurations.
-- **[chau-nm.github.io](https://github.com/chau-nm/chau-nm.github.io)** — My Portfolio website built with React and TypeScript..
+- **[commerce-evolution](https://github.com/chau-nm/commerce-evolution)** — A backend architecture project that demonstrates the evolution of an e-commerce platform from a Modular Monolith to a Microservices architecture.
 
 ---
 
 ### 🌱 What I'm currently learning
-- **Go** — deep dive into language internals and design patterns.  
-- **Kubernetes & Helm** — deploying and managing apps on cloud-native environments.  
-- **FluxCD & GitHub Actions** — automating CI/CD pipelines.  
-- **Cloud fundamentals** — learning how modern infrastructure scales.
+- **Clear Architecture** — applying SOLID principles, CQRS, Hexagonal Architecture, DDD, and design patterns to build maintainable systems.  
+- **Solution Architect** — designing, deploying, and managing applications on cloud-native platforms.
+- **Microservice pattern** — service decomposition, event-driven architecture, and distributed system patterns.
 
 ---
 
