@@ -11,7 +11,7 @@ I'm currently taking my first steps into the **open-source world** — eager to 
 ---
 
 ### 🌱 What I'm currently learning
-- **Clear Architecture** — applying SOLID principles, CQRS, Hexagonal Architecture, DDD, and design patterns to build maintainable systems.  
+- **Clean Architecture** — applying SOLID principles, CQRS, Hexagonal Architecture, DDD, and design patterns to build maintainable systems.  
 - **Solution Architect** — designing, deploying, and managing applications on cloud-native platforms.
 - **Microservice pattern** — service decomposition, event-driven architecture, and distributed system patterns.
 
