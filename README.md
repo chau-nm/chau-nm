@@ -1,27 +1,26 @@
 ### Hi there 👋  
 
-I'm **Nguyen Minh Chau**, a software developer passionate about learning and building useful things.  
-I'm currently taking my first steps into the **open-source world** — eager to learn, grow, and contribute.
+I'm **Nguyen Minh Chau**, a software developer passionate about learning and building useful things.
 
 ---
 
 ### 🚀 What I'm working on
-- **[commerce-evolution](https://github.com/chau-nm/commerce-evolution)** — A backend architecture project that demonstrates the evolution of an e-commerce platform from a Modular Monolith to a Microservices architecture.
+- **[java-dev](https://github.com/chau-nm/java-dev)** — Skills and agents for Java development: code review, JUnit testing, and team coding conventions.
 
 ---
 
 ### 🌱 What I'm currently learning
-- **Software Architecture** — applying SOLID principles, CQRS, Hexagonal Architecture, DDD, and design patterns to build maintainable systems.  
-- **Solution Architect** — designing, deploying, and managing applications on cloud-native platforms.
-- **Microservice pattern** — service decomposition, event-driven architecture, and distributed system patterns.
+- **Claude Code** — Currently learning how to work with Claude effectively and finding the best approach to optimize my workflow.
+- **Deep in System Design** — Continuously learning and applying system design principles, with a focus on Clean Architecture and scalable software design.
+- **Google Cloud Platform** — My team uses GCP to deploy and maintain our services, so I'm learning it to contribute more effectively.
 
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** Java, Go, PHP, JavaScript & TypeScript 
-- **Frameworks:** Spring, Laravel, Symfony, Gin  
-- **DevOps & Cloud Tools:** Docker, K8s, Helm, FluxCD, GitHub Actions, K3s, Minikube, DigitalOcean
-- **Other tools:** Linux, Git, Make
+- **Languages:** Shell Script, Java, Go, JavaScript & TypeScript 
+- **Frameworks:** Spring, React
+- **DevOps & Cloud Tools:** Docker, GitHub Actions
+- **Other tools:** Linux, Claude
 
 ---
 
